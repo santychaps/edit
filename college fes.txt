@@ -3,9 +3,12 @@ NFS
 FIFA
 Blind TYPING
 SUPER Mario
+LOGO Design
+
 
 CLASS events
 RUBIC cubes
 WORD Buzz
 LOGO Quizz
 SNAKE n LADDER
+FOLLOW the path
