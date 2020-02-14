@@ -2,8 +2,10 @@ LAB events
 NFS
 FIFA
 Blind TYPING
+SUPER Mario
 
 CLASS events
 RUBIC cubes
 WORD Buzz
 LOGO Quizz
+SNAKE n LADDER
